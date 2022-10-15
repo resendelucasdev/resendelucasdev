@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucas Martins Prado Resende 😁
+## Olá seja bem-vindo(a) ao meu perfil! Me chamo Lucas Martins Prado Resende 😁
 
  <div>
    <a href="https://github.com/resendelucasdev">
